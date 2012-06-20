@@ -1,4 +1,5 @@
 
+Ups este cambio trono todo en la instalacion
 comenzamos con el uso del git para control de sistema de versiones
 
 * el proceso es el siguiente
@@ -9,4 +10,3 @@ comenzamos con el uso del git para control de sistema de versiones
 * 4: haces el commit con git commit
 * 5: puedes ver que se ha hecho con git log
 
-Este no va aqui no lo quiero
