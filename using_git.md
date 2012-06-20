@@ -9,4 +9,3 @@ comenzamos con el uso del git para control de sistema de versiones
 * 4: haces el commit con git commit
 * 5: puedes ver que se ha hecho con git log
 
-Este no va aqui no lo quiero
