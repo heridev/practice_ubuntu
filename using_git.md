@@ -8,4 +8,5 @@ comenzamos con el uso del git para control de sistema de versiones
 * 3: despues puedes ver los cambios git status
 * 4: haces el commit con git commit
 * 5: puedes ver que se ha hecho con git log
-
+* 6: Sextra linea
+* 7: septima linea
