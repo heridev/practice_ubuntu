@@ -94,7 +94,7 @@ git rm hello.rb
 # Para actualizar un repositorio clonado 
 git merge origin/master
 
-PARA SINCRONIZAR ARCHIVOS CON UN HOSTING REMOTO
+### PARA SINCRONIZAR ARCHIVOS CON UN HOSTING REMOTO
 
 primero obtienes las claves ssh y lo configuras por alli esta el
 tutorial por ejemplo en github como ese lo hice siguiente los pasos
@@ -103,17 +103,17 @@ vuelves a hacer ya sabes como es, despues configuras tu maquina y
 generas todo y ya no te va a pedir cada vez estos datos de contra y
 correo que los ocupas para el siguiente:
 
-git remote add origin
-git@github.com:heribertoperezci/practice_ubuntu.git
-git pull origin master //esto es para jalar todos los cambios por si
+* git remote add origin
+* git@github.com:heribertoperezci/practice_ubuntu.git
+* git pull origin master //esto es para jalar todos los cambios por si
 alguien hubiera cambiado algo
-git push origin master //esto es para ya subir y sincronizar con lo tuyo
+* git push origin master //esto es para ya subir y sincronizar con lo tuyo
 y lo nuevo cambio.
 
-Los demas comandos se mantienen igual que editar ver logs, add para
+###### Los demas comandos se mantienen igual que editar ver logs, add para
 agregar commit, etcetera todo lo demas
 
-Git checkout -b “nombre_branch” //algo asi para crear un nuevo branch o
+* Git checkout -b “nombre_branch” //algo asi para crear un nuevo branch o
 usuario 
-git checkout “nombre_branch” // para cambiar de usuario el que va a
+* git checkout “nombre_branch” // para cambiar de usuario el que va a
 hacer cambios
