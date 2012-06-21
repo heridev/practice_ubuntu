@@ -1,5 +1,5 @@
 
-comenzamos con el uso del git para control de sistema de versiones
+#comenzamos con el uso del git para control de sistema de versiones
 
 * el proceso es el siguiente
 
