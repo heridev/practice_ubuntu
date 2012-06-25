@@ -117,3 +117,9 @@ agregar commit, etcetera todo lo demas
 usuario 
 * git checkout “nombre_branch” // para cambiar de usuario el que va a
 hacer cambios
+
+
+##Para poder ver cuales son los cambios entre un commit y el anterior
+##antes de hacer un push
+
+git show
