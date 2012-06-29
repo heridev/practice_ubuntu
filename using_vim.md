@@ -21,3 +21,6 @@ antes o despues
 * Para cortar y pegar primero seleccionas y luego “c”
 * buscar y reemplazar-->:%s/search/replace/gc  donde g busca todas las
 ocurrencias y el c hace que confirmees en cada parte que quieres reemplazar
+* mostra los numeros de linea --> :set number or :set nu
+* Dejar de mostrar los numeros de linea --> :set number!
+
