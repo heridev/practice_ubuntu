@@ -126,3 +126,5 @@ git show
 
 ## Para conocer la ayuda sobre un comando agregar -h al final
 git show -h
+
+algo
